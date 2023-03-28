@@ -1586,7 +1586,7 @@ h6 {
 .Card-Vehicles{
 	display: flex;
 	flex-direction: row;
-	margin-left: 100px;
+	margin-left: 80px;
 }
 .container-Vehicles{
 	padding: 5px 16px;
